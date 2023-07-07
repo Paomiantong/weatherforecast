@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="temperature">26°C</string>
+    <string name="humidity">湿度: 37%</string>
+    <string name="pm25">PM2.5: 24</string>
+    <string name="weather">晴</string>
+    <string name="temperature_range">30°/26°</string>
+</resources>
